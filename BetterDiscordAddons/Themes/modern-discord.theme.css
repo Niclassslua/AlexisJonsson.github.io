@@ -8,6 +8,9 @@
  * @website https://alexisjonsson.com/
 */
 
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css");
+@import url("https://AlexisJonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.source.css");
+
 @import url("https://onkofonko.github.io/theme/fixedsource.css");
 @import url("https://onkofonko.github.io/theme/fixes.css");
 
@@ -24,8 +27,4 @@
 
     /*Server Info Bar*/
     --app-info-bar-height: 48px; /* Height for container that holds the server name, info, actions and search */
-
-    --badge-size: 22px; /*discord defualt = 18px, theme defualt = 22px;*/
-    --badge-margin: 1.5px; /*discord default = 2px, theme defualt = 1.5px*/
-    --badges-everywhere-size: 15px; /*default = 15px*/
 }
