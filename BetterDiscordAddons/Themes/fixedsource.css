@@ -778,7 +778,7 @@
     transform: rotate(-90deg);
     height: 100vw !important;
     width: var(--server-container);
-    top: 35px;
+    top: 30px;
     bottom: unset;
     position: absolute !important;
     left: 0;
