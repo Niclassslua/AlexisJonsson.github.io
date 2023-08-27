@@ -3727,9 +3727,9 @@ html.platform-osx #app-mount .typeWindows-2-g3UY {
     -webkit-app-region: no-drag;
 }
 
-.winButtonClose-3Q8ZH5 {
+*/.winButtonClose-3Q8ZH5 {
     margin-right: calc(var(--frame-gap) * -1)
-}
+}*/
 
 .header-3OsQeK {
     height: var(--app-info-bar-height, 48px);
