@@ -292,13 +292,13 @@
 #app-mount .guilds__2b93a .wrapper_ed1dea ul[role=group] {
 	display: flex;
 	flex-direction: var(--server-direction);
-	gap: var(--server-spacing);
+	/* gap: var(--server-spacing); */
 }
 
 #app-mount .guilds__2b93a [class*=listItem]:not([class*=listItemWrapper]) {
 	width: var(--server-size);
 	transform: rotate(90deg);
-	margin: 0 10px;
+	margin: 10px 10px;
 	position: unset;
 }
 
